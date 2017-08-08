@@ -3,3 +3,4 @@ Learning Go
 
 hello.go - Hello World sample application
 
+playground.go - Playground demo from tour.
