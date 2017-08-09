@@ -1,6 +1,7 @@
 # go-tutorial
 Learning Go
 
-hello.go - Hello World sample application
+hello - Hello World sample application
 
-playground.go - Playground demo from tour.
+playground - Playground demo from tour.
+
